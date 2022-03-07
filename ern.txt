@@ -1,3 +1,2 @@
 1.privet
-2.joke
-3.bye
+ernest 
